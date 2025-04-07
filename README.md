@@ -13,41 +13,54 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me 🌟✨
-🎓 Currently pursuing a degree in **Computer Engineering**  
-💻 Proficient in coding and developing software applications  
-🚀 Experienced in developing **mobile applications** using **Flutter**  
-🌐 **Microsoft Azure Fundamentals Certified**, with a strong understanding of cloud computing  
-💡 Skilled in **Python** and **Java** programming languages  
-🌍 Passionate about **traveling**, exploring new cultures, and experiencing diverse places  
-📚 An avid **reader**  
-♟️ Enthusiastic about **chess**, embracing strategic thinking and competitive challenges  
+🎓 Currently pursuing a degree in **Artificial Intelligence And Data Science**  
+💻 Proficient in coding and developing software applications 
 
 ---
 
-## Tech Stack 🧑‍💻🚀
+# Tech Stack 🧑‍💻🚀
 
-**Languages:**  
-- Python | Java | C++ | Dart | PHP | Bash  
+## Programming Languages:
+- C++ | Java | JavaScript | TypeScript | Python | C | SQL
 
-**Frontend:**  
-- Flutter | Bootstrap | HTML | CSS  
+## Frontend Development:
+- HTML | CSS | JavaScript | React | MERN Stack (MongoDB, Express.js, React, Node.js)
 
-**Backend:**  
-- Firebase | Supabase  
+## Backend Development:
+- Spring | Spring Boot | Node.js | Express.js | Firebase | PostgreSQL | MySQL | MongoDB
 
-**Database:**  
-- MySQL | MongoDB  
+## Database:
+- Relational Databases: PostgreSQL | MySQL
+- NoSQL: MongoDB | Firebase
 
-**Domains:**  
-- Mobile App Development | Cloud Computing | Cyber Security  
+## Testing:
+- Unit Testing: JUnit | Unit Testing in Java
+- Performance Testing: JMeter
 
-**IDEs:**  
-- VS Code | IntelliJ IDEA | Android Studio | PyCharm  
+## DevOps:
+- Git | GitHub | CI/CD
+- Jenkins | Docker | Kubernetes | Terraform | AWS (Optional: If you work with cloud platforms)
 
-**Tools:**  
-- Microsoft Azure | Git | GitHub | VirtualBox | Figma | Notion | Postman | Linux | Kali Linux | Fedora | Metasploit | Nmap | Burp Suite  
+## Cloud and AI/ML:
+- Firebase | AWS | AI/ML (Machine Learning using Python)
+
+## Tools & Design:
+- Adobe Illustrator | Figma | Postman | Jira | VS Code | IntelliJ IDEA
+
+## Data Formats:
+- JSON | XML
+
+## Version Control:
+- Git | GitHub
 
 ---
+
+## Additional Skills:
+- **AI/ML**: Experience in Artificial Intelligence and Machine Learning
+- **DevOps**: Understanding of the DevOps culture and practices, CI/CD pipelines
+- **Unit Testing**: Proficient in writing tests for applications to ensure reliability
+
+
 
 ## My Projects 🌟🎯  
 
