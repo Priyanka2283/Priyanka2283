@@ -58,19 +58,15 @@ Here are some ideas to get you started:
 - **Unit Testing**: Proficient in writing tests for applications to ensure reliability
 
 
-
+<!--
 ## My Projects 🌟🎯  
 
 ### **E-College Password Manager App - Vaultify**  
 *Description*: (Provide a brief description of your project here, such as its features or what makes it unique.)
 
----
+--->
 
 ## Let's Connect 🤝🌐  
 - [LinkedIn](your-linkedin-profile)  
-- [Email](mailto:your-email@gmail.com)
+- [Email](mailto:gaikwadpriyanka1228@gmail.com)
 
----
-
-## GitHub Stats 📊
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true)
