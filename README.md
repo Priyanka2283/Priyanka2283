@@ -39,16 +39,13 @@ Here are some ideas to get you started:
 
 ## DevOps:
 - Git | GitHub | CI/CD
-- Jenkins | Docker | Kubernetes | Terraform | AWS (Optional: If you work with cloud platforms)
+- Jenkins | Docker | Kubernetes 
 
 ## Cloud and AI/ML:
-- Firebase | AWS | AI/ML (Machine Learning using Python)
+- Firebase | AI/ML (Machine Learning using Python)
 
 ## Tools & Design:
 - Adobe Illustrator | Figma | Postman | Jira | VS Code | IntelliJ IDEA
-
-## Data Formats:
-- JSON | XML
 
 ## Version Control:
 - Git | GitHub
