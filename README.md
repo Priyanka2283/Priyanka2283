@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Priyanka2283/Priyanka2283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
